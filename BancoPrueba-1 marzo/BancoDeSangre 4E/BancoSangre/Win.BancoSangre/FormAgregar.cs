@@ -80,7 +80,7 @@ namespace Win.BancoSangre
             {
                 listaDonantesBindingSource.ResetBindings(false);
                 DeshabilitarHabilitarBotones(true);
-                MessageBox.Show("Guardado Exitosamente");
+                MessageBox.Show("Guardado");
             }
             else
             {
